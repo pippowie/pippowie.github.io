@@ -11,7 +11,9 @@ mode: dark
 author:
   name: Pippo
   bio: >-
-    I work in Data & Analytics at Project A. Please do get in touch <a
+    I work in Data & Analytics at <a
+    href="https://www.linkedin.com/in/philipp-wiedemann/" target="_blank"
+    rel="noopener">@linkedin</a>. Please do get in touch <a
     href="https://www.linkedin.com/in/philipp-wiedemann/" target="_blank"
     rel="noopener">@linkedin</a> or <a href="https://github.com/pippowie"
     target="_blank" rel="noopener">@github</a>.
