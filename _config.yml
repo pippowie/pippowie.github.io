@@ -18,7 +18,7 @@ author:
   username: pippowie
   github: pippowie
   twitter: pippowie
-  avatar: assets/img/2020_profile_closeup.jpg
+  avatar: assets/img/profile_square.jpg
 url: 'https://pippowie.github.io/home/'
 baseurl: ''
 permalink: '/:title/'
