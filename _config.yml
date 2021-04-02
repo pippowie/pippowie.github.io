@@ -9,7 +9,7 @@ image: assets/img/ogp.png
 repo: 'https://github.com/piharpi/jekyll-klise'
 mode: dark
 author:
-  name: Pippo
+  name: "Hi, I'm Pippo"
   bio: >-
     I work in Data & Analytics at <a href="https://www.project-a.com"
     target="_blank" rel="noopener">Project A</a>.
