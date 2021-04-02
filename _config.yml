@@ -20,7 +20,7 @@ author:
   twitter: pippowie
   avatar: assets/img/2020_profile_closeup.jpg
 url: 'https://pippowie.github.io'
-baseurl: 'home'
+baseurl: '/home'
 permalink: '/:title/'
 google_analytics: null
 fb_appid: null
