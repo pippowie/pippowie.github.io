@@ -205,6 +205,10 @@
   .author-name {
     font-size: 1.7em;
     margin-bottom: 2px;
+
+    span {
+      color: $text-highlight-color;
+    }
   }
 
   .author-bio {
@@ -284,17 +288,22 @@
     opacity: 0.8;
     text-decoration: none;
 
-    &:not(:last-child) {
-      margin-right: 10px;
-      &:hover {
-        opacity: 1;
+    &:hover {
+      opacity: 1;
+      &.social {
+        color: $text-highlight-color;
       }
     }
   }
 
+  .footer_item {
+    &:not(:first-child) {
+      margin-left: 10px;
+    } 
+  }
+
   .footer_copyright {
-    font-size: $small-font-size - 2;
-    margin-top: 3px;
+    font-size: $small-font-size - 1;
     display: block;
     color: $gray;
     opacity: 0.8;

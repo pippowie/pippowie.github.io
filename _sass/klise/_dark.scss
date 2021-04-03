@@ -153,6 +153,14 @@ body[data-theme="dark"] {
     }
   }
 
+  // Author
+
+  .author-name {
+    span {
+      color: $dark-text-highlight-color;
+    }
+  }
+
   // Post Item
   .post-item {
     &:not(:first-child) {
@@ -210,9 +218,20 @@ body[data-theme="dark"] {
     span.footer_item {
       color: $dark-white;
     }
-    a.footer_item:not(:last-child) {
+    
+    a.footer_item {
       color: $dark-white;
+      opacity: 0.8;
+      text-decoration: none;
+
+      &:hover {
+        opacity: 1;
+        &.social {
+          color: $dark-text-highlight-color;
+        }
+      }
     }
+
     .footer_copyright {
       color: $dark-gray;
       opacity: 1;
