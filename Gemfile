@@ -11,6 +11,7 @@ source "https://rubygems.org"
 
 
 gem "jekyll", "~> 4.1.0"
+gem "webrick", "~> 1.7"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
