@@ -16,7 +16,7 @@ author:
   github: pippowie
   twitter: pippowie
   linkedin: philipp-wiedemann
-  avatar: assets/img/profile_square.jpg
+  avatar: assets/img/avatar
 url: 'https://pippowie.github.io/home/'
 baseurl: ''
 permalink: '/:title/'
