@@ -92,6 +92,7 @@
     text-decoration: none;
     &[target="_blank"]::after {
       content: " \2197";
+      font-family: -apple-system, monospace, 'Apple Color Emoji';
       font-size: $small-font-size;
       line-height: 0;
       position: relative;
