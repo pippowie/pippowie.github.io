@@ -14,7 +14,7 @@ Tucholskystr. neununddreißig\
 
 #### Kontakt
 
-E-Mail: philipp (dot) wiedemann (at) me (dot) com
+E-Mail: phil (dot) wiedemann (at) me (dot) com
 
 #### Haftung für Inhalte
 
