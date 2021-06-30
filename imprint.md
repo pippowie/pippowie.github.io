@@ -9,12 +9,12 @@ comments: false
 ### Angaben gemäß § 5 TMG
 
 Philipp Wiedemann\
-Tucholskystr. neununddreißig\
+Tucholsky neununddreißig\
 10117 Berlin
 
 #### Kontakt
 
-E-Mail: phil (dot) pp (at) me (dot) com
+E-Mail: pippowiedemann (at) gmail (dot) com
 
 #### Haftung für Inhalte
 
