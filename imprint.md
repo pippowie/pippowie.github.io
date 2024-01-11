@@ -6,12 +6,6 @@ excerpt: Imprint.
 comments: false
 ---
 
-### Angaben gemäß § 5 TMG
-
-Philipp Wiedemann\
-Tucholsky neununddreißig\
-10117 Berlin
-
 #### Kontakt
 
 E-Mail: pippowiedemann (at) gmail (dot) com
