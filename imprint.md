@@ -9,8 +9,6 @@ comments: false
 ### Angaben gemäß § 5 TMG
 
 Philipp Wiedemann\
-Fliederweg 2\
-92507 Nabburg
 
 #### Kontakt
 
