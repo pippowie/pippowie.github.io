@@ -9,8 +9,8 @@ comments: false
 ### Angaben gemäß § 5 TMG
 
 Philipp Wiedemann\
-Tucholsky neununddreißig\
-10117 Berlin
+Fliederweg 2\
+92507 Nabburg
 
 #### Kontakt
 
