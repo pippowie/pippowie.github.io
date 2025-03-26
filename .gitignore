@@ -6,3 +6,10 @@ _drafts
 klise-*.gem
 Gemfile.lock
 .ruby-version
+vendor
+.DS_Store
+**/.DS_Store
+# Cursor-related files and directories
+.cursor/
+**/.cursor/
+.cursor-*
