@@ -10,8 +10,7 @@ author:
   name: Pippo
   bio: >-
     🇩🇪🇮🇹🇪🇺</br>
-    I used to work in Data & Analytics at <a href="https://www.project-a.com"
-    target="_blank" rel="noopener">Project A</a>.
+    Pragmatic generalist with analytical curiosity and a knack for tech-enabled solutions.
   username: pippowie
   github: pippowie
   twitter: pippowie
@@ -20,8 +19,6 @@ author:
 url: 'https://pippowie.github.io/'
 baseurl: ''
 permalink: '/:title/'
-google_analytics: null
-fb_appid: null
 collections:
   posts:
     output: true
