@@ -30,6 +30,7 @@
     line-height: 1.2;
     margin-top: 10px;
     margin-bottom: 20px;
+    font-family: $serif-family;
 
     &.center {
       text-align: center;
@@ -140,6 +141,7 @@
   h6 {
     color: $black;
     font-weight: $bold-weight;
+    font-family: $serif-family;
     margin-top: $spacing-full;
     margin-bottom: 0;
 
@@ -258,5 +260,5 @@
 }
 
 .post-updated-at {
-  font-family: "Ubuntu mono", "monospace";
+  font-family: $mono-family;
 }

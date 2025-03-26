@@ -205,6 +205,7 @@
   .author-name {
     font-size: 1.7em;
     margin-bottom: 2px;
+    font-family: $serif-family;
 
     span {
       color: $text-highlight-color;
@@ -225,6 +226,7 @@
   font-weight: 700;
   margin-bottom: 5px;
   color: $black;
+  font-family: $serif-family;
 }
 
 // List of posts
@@ -321,6 +323,7 @@
     font-weight: $bold-weight;
     line-height: 1.1;
     color: $black;
+    font-family: $serif-family;
     text-shadow: 1px 0px 0px $text-link-blue;
   }
   .phrase {
