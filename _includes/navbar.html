@@ -165,21 +165,23 @@
         {%- assign menus = site.data.menus -%}
         {%- if menus %}
           {%- for menu in menus -%} 
-            {%- if url == menu.url -%}
-              <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
-            {%- else -%} 
-              {%- if menu.external -%}
-                <a
-                  class="menu-link"
-                  href="{{ menu.url }}"
-                  target="_blank"
-                  rel="noopener"
-                  >{{ menu.title }}</a
-                >
-              {%- else -%}
-                <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
-              {%- endif -%} 
-            {%- endif -%} 
+            {%- unless menu.title == "blog" and site.posts.size == 0 -%}
+              {%- if url == menu.url -%}
+                <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
+              {%- else -%} 
+                {%- if menu.external -%}
+                  <a
+                    class="menu-link"
+                    href="{{ menu.url }}"
+                    target="_blank"
+                    rel="noopener"
+                    >{{ menu.title }}</a
+                  >
+                {%- else -%}
+                  <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
+                {%- endif -%} 
+              {%- endif -%}
+            {%- endunless -%}
           {%- endfor -%}
         {%- else -%}
           <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
