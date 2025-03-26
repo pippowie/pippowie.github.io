@@ -6,13 +6,10 @@ excerpt: Imprint.
 comments: false
 ---
 
-<<<<<<< HEAD
 ### Angaben gemäß § 5 TMG
 
-Philipp Wiedemann\
+Philipp Wiedemann
 
-=======
->>>>>>> refs/remotes/origin/master
 #### Kontakt
 
 E-Mail: pippowiedemann (at) gmail (dot) com
